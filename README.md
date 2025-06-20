@@ -33,8 +33,13 @@ To identify frequent itemsets and generate strong association rules to make prod
 
 ---
 
-## 📸 Sample Output
-*(Add screenshots of your itemset rules or visual graphs here)*
+## 📸 Screenshots
+
+### 🔹 Frequent Itemsets Output
+![Frequent Itemsets](frequent_itemsets.png)
+
+### 🔹 Association Rules (Support vs Confidence)
+![Association Rules](association_rules_chart.png)
 
 ---
 
